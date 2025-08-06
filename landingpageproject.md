@@ -1,5 +1,4 @@
 # Website Landing Page Project
-
 Website ini dibuat dengan **HTML** dan **Bootstrap** sebagai hasil dari tugas mata pelajaran **Rekayasa Perangkat Lunak (RPL)** untuk jurusan **Teknik Komputer dan Jaringan (TKJ)**.
 
 ---
@@ -19,7 +18,6 @@ Website ini merupakan bagian dari proyek pembelajaran di kelas. Tujuan dari tuga
 ![Preview Desktop](assets/hasil-layout-bootstrap-2.png)
 
 ## Cuplikan Kode HTML
-
 Berikut adalah kode yang saya pakai untuk membuat tampilan landing page untuk dua gambar di atas:
 
 <p align="center">
@@ -30,3 +28,9 @@ Berikut adalah kode yang saya pakai untuk membuat tampilan landing page untuk du
 
 > Saya membuat landing page tersebut menggunakan **VS Code**, yang berarti fitur **CSS** dan **JavaScript** tersedia melalui **Bootstrap**. Namun seperti yang saya sampaikan sebelumnya, full folder kode tersebut berada di **laptop lama saya yang sedang rusak**. 
 > Jadi, untuk saat ini saya hanya bisa menampilkan **preview kode HTML**, dan tidak bisa memberikan **live demo** karena file bootstrap lengkapnya tidak tersedia.
+
+## Terima Kasih!
+Dokumentasi ini saya buat sebagai bagian dari proses pembelajaran dan pengembangan diri dalam bidang web development.  
+Meski terbatas karena kondisi perangkat, saya tetap berusaha menampilkan hasil sebaik mungkin.
+
+Terima kasih telah melihat proyek ini!
